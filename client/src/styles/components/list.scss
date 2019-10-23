@@ -1,0 +1,17 @@
+.bottom-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .add-button {
+    svg {
+      margin-left: 5px;
+    }
+  }
+}
+
+.total-value {
+  text-align: right;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-size: 14px;
+  margin: 10px 0;
+}
