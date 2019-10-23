@@ -3,7 +3,7 @@
 
 In the project directory, you can run:
 
-### `npm install`
+### `(cd backend && npm install) && (cd client && npm install)`
 Installs the frontend and backend packages.
 
 ### `npm start`
